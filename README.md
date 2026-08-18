@@ -522,6 +522,40 @@ _<img width="1363" height="729" alt="ping scan" src="https://github.com/user-att
 
 ---
 
+# 📝 11. Networkwalks Academy Quiz Assessment
+
+As part of the Networkwalks Academy cybersecurity training program, I completed a short knowledge assessment covering concepts related to the practical modules and cybersecurity activities studied during the program.
+
+### 🏆 Quiz Performance
+
+| **Assessment** | **Details** |
+|---|---|
+| 🎓 **Academy** | Networkwalks Academy |
+| 📚 **Program** | Cybersecurity |
+| 📅 **Assessment Date** | August 2026 |
+| 🧪 **Assessment Type** | Short Knowledge Quiz |
+| 📊 **Score** | **[29% 10/10]** |
+| ✅ **Result** | **Passed / Completed** |
+
+### 📸 Score Evidence
+
+<img width="1365" height="753" alt="1" src="https://github.com/user-attachments/assets/0f1b4787-01ef-4d9c-baa2-ae9f6c4d6f91" />
+<img width="1365" height="766" alt="2" src="https://github.com/user-attachments/assets/58b8f42b-65f9-4d53-9dbb-2f9bdeab3d9d" />
+
+
+> 🏅 **Achievement:** Successfully completed the Networkwalks Academy knowledge assessment as part of my cybersecurity training and practical learning journey.
+
+---
+
+### 🎯 Learning Validation
+
+The quiz provided an opportunity to validate my understanding of the cybersecurity concepts covered during the training, complementing the hands-on practical activities documented in this repository.
+
+**Knowledge Assessment → Practical Lab → Evidence → Professional Documentation**
+
+
+---
+
 # 🧭 Assessment Progress
 
 ```text
