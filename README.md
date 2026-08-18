@@ -25,9 +25,9 @@
 | **Category** | **Details** |
 |---|---|
 | 👤 **Pentester** | Alebiosu Oluwadamilare Samuel |
-| 🎓 **Program / Batch** | B082 — Networkwalks |
+| 🎓 **Program / Batch** | B082 Networkwalks |
 | 📅 **Assessment Date** | 18 August 2026 |
-| 🧪 **Modules Completed** | W2-PM1 — Multiple Kali Tools<br>W2-PM5 — Zenmap Scanning |
+| 🧪 **Modules Completed** | W2-PM1 Multiple Kali Tools<br>W2-PM5 — Zenmap Scanning |
 | 🎯 **Assessment Targets** | Networkwalks — Authorized Target<br>My Own Local LAN Network |
 | 🔐 **Authorization** | ✅ Written Permission Secured |
 | 🔎 **Phase 1** | Reconnaissance & Footprinting |
@@ -61,11 +61,11 @@ This penetration testing report documents the practical cybersecurity activities
 
 The assessment focused on two major stages of the penetration testing lifecycle:
 
-### 🔎 Phase 1 — Reconnaissance & Footprinting
+### 🔎 Phase 1 Reconnaissance & Footprinting
 
 Publicly available information was collected from the **networkwalks.com** domain using multiple Kali Linux reconnaissance tools.
 
-### 🌐 Phase 2 — Scanning & Network Discovery
+### 🌐 Phase 2 Scanning & Network Discovery
 
 Zenmap was used to perform network discovery against my **own local network**, identifying active hosts and collecting IP and MAC address information.
 
@@ -107,7 +107,7 @@ Each activity was documented with:
 | 🔍 **WHOIS** | Domain registration and name-server information |
 | 🌐 **WhatWeb** | Web technology and CMS fingerprinting |
 | 📡 **Nslookup** | DNS resolution and IP identification |
-| 📥 **cURL** | HTTP response header analysis |
+| 📥 **curl** | HTTP response header analysis |
 | 🛡️ **Wafw00f** | Web Application Firewall identification |
 | 🗂️ **DNSRecon** | DNS record enumeration |
 | 🛰️ **Zenmap / Nmap GUI** | Network discovery and host scanning |
@@ -125,7 +125,7 @@ I performed authorized reconnaissance against the **networkwalks.com** domain us
 WHOIS
 WhatWeb
 Nslookup
-cURL
+curl
 Wafw00f
 DNSRecon
 ```
@@ -285,7 +285,7 @@ The following observations were identified during the footprinting and network d
 |---:|---|---|---|---|
 | 1 | Web technology information exposed | WhatWeb identified WordPress and WP Download Manager | Could assist technology fingerprinting and further security review | 🟠 **Medium** |
 | 2 | Server IP identifiable | Nslookup resolved the domain to `192.232.216.135` | Provides information about the network location of the web service | 🟢 **Low** |
-| 3 | HTTP technical information exposed | cURL returned HTTP headers and exposed `/wp-json/` | May assist fingerprinting and further enumeration | 🟢 **Low** |
+| 3 | HTTP technical information exposed | curl returned HTTP headers and exposed `/wp-json/` | May assist fingerprinting and further enumeration | 🟢 **Low** |
 | 4 | WAF technology identifiable | Wafw00f identified ModSecurity | Reveals information about the web application's defensive architecture | 🟢 **Low** |
 | 5 | DNS infrastructure information exposed | DNSRecon identified DNS, mail and service records | Can assist in building an infrastructure profile | 🟠 **Medium** |
 | 6 | Multiple live hosts visible | Zenmap identified four hosts in the example network | Unknown devices may represent unauthorized or unmanaged assets | 🟠 **Medium** |
@@ -566,7 +566,7 @@ Reporting & Remediation
 
 | **Project Detail** | **Information** |
 |---|---|
-| 🏢 **Program** | Cybersecurity Program — Networkwalks |
+| 🏢 **Program** | Cybersecurity Program Networkwalks |
 | 📅 **Week** | Week 02 |
 | 🎓 **Batch** | B082 |
 | 🔐 **Project Type** | Authorized Penetration Testing Lab |
