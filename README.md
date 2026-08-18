@@ -29,7 +29,7 @@
 | 📅 **Assessment Date** | 18 August 2026 |
 | 🧪 **Modules Completed** | W2-PM1 Multiple Kali Tools<br>W2-PM5 Zenmap Scanning |
 | 🎯 **Assessment Targets** | Networkwalks Authorized Target<br>My Own Local LAN Network |
-| 🔐 **Authorization** | ✅ Written Permission Secured |
+| 🔐 **Authorization** | Written Permission Secured |
 | 🔎 **Phase 1** | Reconnaissance & Footprinting |
 | 🌐 **Phase 2** | Scanning & Network Discovery |
 | 🚧 **Phases 3–5** | In Progress |
