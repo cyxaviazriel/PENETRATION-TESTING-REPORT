@@ -449,42 +449,42 @@ Evidence from the practical activities is included below.
 <details>
 <summary><b>WHOIS Results</b></summary>
 
-_Add screenshot here._
+<img width="1365" height="739" alt="W2-PM1-TASK 1 My results of whois" src="https://github.com/user-attachments/assets/8927b327-1393-4ab3-8a20-de59c0ef5c4f" />
 
 </details>
 
 <details>
 <summary><b>WhatWeb Results</b></summary>
 
-_Add screenshot here._
+<img width="1365" height="722" alt="W2-PM1-TASK 2 My results of whatweb" src="https://github.com/user-attachments/assets/bb95915b-224a-40bc-9999-987eb4b8148c" />
 
 </details>
 
 <details>
 <summary><b>Nslookup Results</b></summary>
 
-_Add screenshot here._
+<img width="1365" height="767" alt="W2-PM1-TASK 3 My results of  nslookup" src="https://github.com/user-attachments/assets/990feb97-e50c-4c36-8a19-4c1bd8a97356" />
 
 </details>
 
 <details>
 <summary><b>cURL Results</b></summary>
 
-_Add screenshot here._
+<img width="1365" height="716" alt="W2-PM1-TASK 4 My results of curl" src="https://github.com/user-attachments/assets/4607a39a-0273-4052-b35a-6bfa7f166a30" />
 
 </details>
 
 <details>
 <summary><b>Wafw00f Results</b></summary>
 
-_Add screenshot here._
+<img width="1358" height="763" alt="W2-PM1-TASK 5 My results of wafw00f" src="https://github.com/user-attachments/assets/dc1eb10b-541c-41ee-9085-40cbb5df8faa" />
 
 </details>
 
 <details>
 <summary><b>DNSRecon Results</b></summary>
 
-_Add screenshot here._
+<img width="1366" height="691" alt="W2-PM1-TASK 6 My results of dnsrecon" src="https://github.com/user-attachments/assets/f4a2b650-cb29-4bd0-b92f-d075065959d2" />
 
 </details>
 
@@ -493,28 +493,30 @@ _Add screenshot here._
 <details>
 <summary><b>Windows IP Configuration</b></summary>
 
-_Add screenshot here._
+<img width="1365" height="722" alt="Ipconfig" src="https://github.com/user-attachments/assets/e13537ef-b8d3-48b9-8be4-4625cfcd6436" />
 
 </details>
 
 <details>
 <summary><b>Zenmap Ping Scan</b></summary>
 
-_Add screenshot here._
+_<img width="1363" height="729" alt="ping scan" src="https://github.com/user-attachments/assets/072b3373-d351-4cc3-bf7c-07ff28d1565e" />
 
 </details>
 
 <details>
 <summary><b>Zenmap Host Discovery</b></summary>
 
-_Add screenshot here._
+<img width="1365" height="764" alt="Host !" src="https://github.com/user-attachments/assets/09f07033-3c63-4247-a96e-2e94d81aee93" />
+<img width="1349" height="720" alt="Host 2" src="https://github.com/user-attachments/assets/acaa608f-1386-4436-bf70-6056808cb82d" />
+
 
 </details>
 
 <details>
 <summary><b>Zenmap Network Topology</b></summary>
 
-_Add screenshot here._
+<img width="1365" height="727" alt="Topology" src="https://github.com/user-attachments/assets/0dd7fbe1-57f1-4086-840a-81c44cc013c8" />
 
 </details>
 
