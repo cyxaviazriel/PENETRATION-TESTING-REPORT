@@ -20,7 +20,7 @@
 
 </div>
 
-## 📋 Engagement Overview
+## 🛡️ Engagement Overview
 
 | **Category** | **Details** |
 |---|---|
@@ -37,7 +37,7 @@
 
 ---
 
-# ⚠️ 1. Liability & Authorization Disclaimer
+# 🛡️ 1. Liability & Authorization Disclaimer
 
 > **AUTHORIZED SECURITY TESTING ONLY**
 
@@ -51,11 +51,11 @@ Unauthorized access, scanning, enumeration, exploitation, or interference with c
 
 The author, instructor, and Networkwalks are not responsible for misuse of the information contained within this project.
 
-> 🔐 **Security principle:** Always define and respect the authorized scope before performing reconnaissance or security testing.
+> 🛡️ **Security principle:** Always define and respect the authorized scope before performing reconnaissance or security testing.
 
 ---
 
-# 🎯 2. Introduction
+# 🛡️ 2. Introduction
 
 This penetration testing report documents the practical cybersecurity activities completed during **Week 2 of my Networkwalks internship program**.
 
@@ -98,7 +98,7 @@ Each activity was documented with:
 
 ---
 
-# 🧰 3. Tools & Technologies
+# 🛡️ 3. Tools & Technologies
 
 | **Tool / Technology** | **Purpose** |
 |---|---|
@@ -115,7 +115,7 @@ Each activity was documented with:
 
 ---
 
-# 🔎 4. Activities Performed
+# 🛡️ 4. Activities Performed
 
 ## 4.1 🔍 Footprinting & Reconnaissance
 
@@ -159,7 +159,7 @@ WP Download Manager 3.3.58
 
 Technology and version information can assist security professionals in identifying software that may require additional security review.
 
-> ⚠️ Technology identification does **not** automatically indicate that a vulnerability exists.
+> 🛡️ Technology identification does **not** automatically indicate that a vulnerability exists.
 
 ---
 
@@ -233,7 +233,7 @@ DNS information can help create a broader understanding of an organization's pub
 
 ---
 
-# 🌐 4.2 Network Scanning with Zenmap
+# 🛡️ 4.2 Network Scanning with Zenmap
 
 The second practical activity focused on **network discovery using Zenmap**.
 
@@ -277,7 +277,7 @@ The topology legend was enabled and the resulting network topology was saved in 
 
 ---
 
-# ⚠️ 5. Risk Analysis & Impact
+# 🛡️ 5. Risk Analysis & Impact
 
 The following observations were identified during the footprinting and network discovery activities.
 
@@ -351,7 +351,7 @@ All reconnaissance, scanning, enumeration, and security testing should be perfor
 
 ---
 
-# 📊 7. Security Assessment Summary
+# 🛡️ 7. Security Assessment Summary
 
 | **Assessment Area** | **Status** |
 |---|---|
@@ -375,7 +375,7 @@ EXPLOITATION         ░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-# 🎓 8. Key Learning Outcomes
+# 🛡️ 8. Key Learning Outcomes
 
 Through these practical exercises, I developed hands-on experience with:
 
@@ -397,7 +397,7 @@ A cybersecurity professional must therefore understand both **how information ca
 
 ---
 
-# 📝 9. Conclusion
+# 🛡️ 9. Conclusion
 
 During **Week 2 of my Cybersecurity & Ethical Hacking internship at Networkwalks**, I completed practical activities covering **reconnaissance, footprinting, and network scanning**.
 
@@ -440,7 +440,7 @@ This project represents another step in my development as a cybersecurity profes
 
 ---
 
-# 📸 10. Evidence Collected
+# 🛡️ 10. Evidence Collected
 
 Evidence from the practical activities is included below.
 
@@ -522,7 +522,7 @@ _<img width="1363" height="729" alt="ping scan" src="https://github.com/user-att
 
 ---
 
-# 📝 11. Networkwalks Academy Quiz Assessment
+# 🛡️ 11. Networkwalks Academy Quiz Assessment
 
 As part of the Networkwalks Academy cybersecurity training program, I completed a short knowledge assessment covering concepts related to the practical modules and cybersecurity activities studied during the program.
 
@@ -547,7 +547,7 @@ As part of the Networkwalks Academy cybersecurity training program, I completed 
 
 ---
 
-### 🎯 Learning Validation
+### 🛡️ Learning Validation
 
 The quiz provided an opportunity to validate my understanding of the cybersecurity concepts covered during the training, complementing the hands-on practical activities documented in this repository.
 
@@ -556,7 +556,7 @@ The quiz provided an opportunity to validate my understanding of the cybersecuri
 
 ---
 
-# 🧭 Assessment Progress
+# 🛡️ Assessment Progress
 
 ```text
 PHASE 1
@@ -598,7 +598,7 @@ Reporting & Remediation
 
 ---
 
-# 📌 Project Information
+# 🛡️ Project Information
 
 | **Project Detail** | **Information** |
 |---|---|
